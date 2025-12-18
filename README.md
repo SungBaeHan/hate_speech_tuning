@@ -5,6 +5,12 @@ FastCampus AI Labs 과제 및 개인 실험용으로 진행되었으며, **KMHaS
 
 ---
 
+## 📌 Git Repository
+
+https://github.com/SungBaeHan/hate_speech_tuning
+
+---
+
 ## 📌 Project Overview
 
 * **Task**: Korean Hate Speech Multi‑Label Classification
