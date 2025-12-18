@@ -162,16 +162,7 @@ Output:
 
 ## 👤 Author
 
-* **SungBae Han**
-  AI Orchestrator / Solo Builder / ML Engineer
+* **Fast Campus Team 2**
   FastCampus AI Labs
 
----
 
-필요하면:
-
-* 논문 스타일 README
-* HuggingFace Model Card
-* FastCampus 제출용 요약 버전
-
-전부 만들어줄 수 있어요 👍
